@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,applemusic.com
 PROCESS-NAME,Music
+PROCESS-NAME,AppleTV
 PROCESS-NAME,itunescloudd
