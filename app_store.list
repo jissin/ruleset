@@ -1,0 +1,4 @@
+PROCESS-NAME,storedownloadd // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
+USER-AGENT,App%20Store*
+USER-AGENT,MacAppStore*
