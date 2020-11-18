@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,content-storage-upload.googleapis.com // 照片上传
+PROCESS-NAME,cloudd
+PROCESS-NAME,nsurlsessiond
