@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.akadns.net
+DOMAIN-SUFFIX,icloud.com.edgekey.net
 DOMAIN-SUFFIX,content-storage-upload.googleapis.com // 照片上传
 PROCESS-NAME,cloudd
 PROCESS-NAME,nsurlsessiond
