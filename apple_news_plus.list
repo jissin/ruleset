@@ -2,7 +2,7 @@ DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.news
 PROCESS-NAME,AppleMediaServicesUI
-PROCESS-NAME,News
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News
 USER-AGENT,AppleNews*
 DOMAIN-SUFFIX,apple.news
 DOMAIN,news-events.apple.com
