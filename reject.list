@@ -1,2 +1,3 @@
 URL-REGEX,^http:\/\/img\.qdaily\.com\/uploads\/20171222175448DuIFGKx5VU4XcYEf\.png-w600$,REJECT-TINYGIF
 URL-REGEX,^http:\/\/img\.qdaily\.com\/uploads\/20160725026790Msgaji5TilWhj7z4\.jpg-w600$,REJECT-TINYGIF
+URL-REGEX,https://static.zhihu.com/*/main.signflow*.js
