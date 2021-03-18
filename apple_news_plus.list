@@ -2,11 +2,13 @@ DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.news
 PROCESS-NAME,AppleMediaServicesUI
-PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News
+PROCESS-NAME,News
 USER-AGENT,AppleNews*
 DOMAIN-SUFFIX,apple.news
 DOMAIN,news-events.apple.com
 DOMAIN,news-edge.apple.com
+DOMAIN,news-clinet.apple.com
+DOMAIN,news-assets.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,play.itunes.apple.com
 DOMAIN,play-cdn.itunes-apple.com.akadns.net
@@ -21,3 +23,4 @@ DOMAIN,gs-loc.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
+
